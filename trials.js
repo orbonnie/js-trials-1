@@ -222,3 +222,31 @@ function compress(string) {
 
   return compressed.join('');
 }
+
+// outputAllItems([1, 'hello', true]);
+// console.log('\n');
+// console.log(getAllEvens([7, 8, 10, 1, 2, 2]));
+// console.log('\n');
+// console.log(getOddIndices([1, 'hello', true, 500]));
+// console.log('\n');
+// printAsNumberedList([1, 'hello', true]);
+// console.log('\n');
+// console.log(getRange(0, 5));
+// console.log('\n');
+// console.log(censorVowels('hello world'));
+// console.log('\n');
+// console.log(snakeToCamel('hello_world_in_python'));
+// console.log('\n');
+// console.log(longestWordLength(['jellyfish', 'zebra']));
+// console.log('\n');
+// console.log(truncate('hi***!!!! wooow'));
+// console.log('\n');
+// console.log(truncate('aaaabbbbcccca'));
+// console.log('\n');
+// console.log(hasBalancedParens('((This) (is) (good))'));
+// console.log('\n');
+// console.log(hasBalancedParens('(Oh no!)('));
+// console.log('\n');
+// console.log(compress('aabbaabb'));
+// console.log('\n');
+// console.log(compress('abc'));
