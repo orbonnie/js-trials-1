@@ -30,7 +30,6 @@ def get_odd_indices(items):
 
 
 def print_as_numbered_list(items):
-
     i = 1
 
     for item in items:
@@ -72,7 +71,6 @@ def snake_to_camel(string):
 
 
 def longest_word_length(words):
-
     max_chars = 0
 
     for word in words:
@@ -83,7 +81,6 @@ def longest_word_length(words):
 
 
 def truncate(string):
-
     trunc_string = ''
 
     for i, char in enumerate(string):
@@ -110,9 +107,7 @@ def has_balanced_parens(string):
 
 
 def compress(string):
-
     compressed = ''
-
     curr_char = None
     curr_count = 0
 
